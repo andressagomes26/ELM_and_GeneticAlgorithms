@@ -128,7 +128,7 @@ for epoca = 1:epocas
                  filhos_mut(i, colun_sort) =  ~(filhos_mut(i, colun_sort));     // O bit 0 será alterado para 1 e o bit 1 será alterado para 0
             end
     end
-    matriz_individuos = filhos_mut;     // A matriz de indivíduos recebe a nova população || Os filhos geram a nova população
+    matriz_individuos = filhos_mut;     // A matriz de indivíduos recebe a nova população
 end
 
 for i = 1:qnt_individuos

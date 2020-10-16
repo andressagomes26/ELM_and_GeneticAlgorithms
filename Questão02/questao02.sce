@@ -21,7 +21,7 @@ sup = 5                     // Limite superior do intervalo [-5 5]
 matriz_individuos1 = [ones(qnt_individuos, num_bit/2)];         // Cria uma matriz composta de 1's
 matriz_individuos2 = [zeros(qnt_individuos, num_bit/2)];        // Cria uma matriz composta de 0's
 matriz_individuos = [matriz_individuos1 matriz_individuos2];    // Cria uma matriz para agrupar os bits 0's e 1's
-matriz_individuos = grand(1,'prm', matriz_individuos);          // Embaralha a matriz que agrupa os bits para criar a matriz contendo os 100 indivíduos e 20 bits
+matriz_individuos = grand(1,'prm', matriz_individuos);          // Embaralha os bits para criar a matriz contendo os 100 indivíduos e 20 bits
 
 for epoca = 1:epocas
     for i = 1:qnt_individuos 

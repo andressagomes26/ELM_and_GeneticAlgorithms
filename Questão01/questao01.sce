@@ -1,6 +1,5 @@
 /* Andressa Gomes Moreira
-   Trabalho 03 - Questão 01
-   Inteligência Computacional
+   Questão 01 - Inteligência Computacional
 */
 
 clear; 

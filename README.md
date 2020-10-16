@@ -1,5 +1,5 @@
 <h1 align='center'>
-          Inteligência Computacional | Rede ELM | ALGORITMOS GENÉTICOS
+          Inteligência Computacional | Rede ELM | Algoritmos Genéticos
 </h1>
 
 Trabalho referente a disciplina de Inteligência Computacional, na qual consiste em construir  em aplicar os conhecimentos sobre Rede ELM e Algoritmos Genéticos. Para mais informações sobre o assunto: 

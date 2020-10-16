@@ -1,4 +1,4 @@
-/* Andressa Gomes Moreira - 402305
+/* Andressa Gomes Moreira
    Trabalho 03 - Questão 01
    Inteligência Computacional
 */

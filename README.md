@@ -31,7 +31,7 @@ O trabalho consiste em implementar plotar um gráfico de dispersão usando cores
 
 Deve-se implementar um algoritmo genético para achar o mínimo da função de Rosenbrock f(x, y) =(1 – x)2 + 100(y – x2)2 no intervalo x ∊ [-5 5] e y ∊ [-5 5], na qual cada indivíduo da população é um vetor binário de 20 bits, em que os 10 primeiros representam x e os restantes representam y. 
 
-   - A resolução encontra-se no arquivo questao02.sce em [*Questão2/questao02.sce*]()
+   - A resolução encontra-se no arquivo questao02.sce em [*Questão2/questao02.sce*](https://github.com/andressagomes26/ELM_and_GeneticAlgorithms/blob/main/Quest%C3%A3o02/questao02.sce)
 
 ## Autores
 - Andressa Gomes Moreira - andressagomes@alu.ufc.br

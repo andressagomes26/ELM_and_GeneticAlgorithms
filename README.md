@@ -25,7 +25,7 @@ Trabalho referente a disciplina de Inteligência Computacional, na qual consiste
 
 O trabalho consiste em implementar plotar um gráfico de dispersão usando cores diferentes para diferenciar os dados do arquivo "two_classes.dat" de uma classe e da outra por meio da rede neural ELM.
 
-   - A resolução encontra-se no arquivo questao01.sce em [*Questão1/questao01.sce*]()
+   - A resolução encontra-se no arquivo questao01.sce em [*Questão1/questao01.sce*](https://github.com/andressagomes26/ELM_and_GeneticAlgorithms/blob/main/Quest%C3%A3o01/questao01.sce)
 
 ### Questão 02
 

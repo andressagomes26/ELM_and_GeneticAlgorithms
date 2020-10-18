@@ -16,8 +16,8 @@ Trabalho referente a disciplina de Inteligência Computacional, na qual consiste
 2. Extraia o contéudo;
 3. Execute os arquivos:
 
-    - questao01.py em *Questão01/questao01.sce*
-    - questao02.py em *Questão02/questao02.sce*
+    - questao01.sce em *Questão01/questao01.sce*
+    - questao02.sce em *Questão02/questao02.sce*
 
 ## Sobre o projeto
 
